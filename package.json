@@ -1,0 +1,16 @@
+{
+  "name": "code-to-hope-br-chat",
+  "version": "0.0.0",
+  "description": "A simple chat client using socket.io",
+  "main": "index.js",
+  "author": "Claudio Salas",
+  "private": false,
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
